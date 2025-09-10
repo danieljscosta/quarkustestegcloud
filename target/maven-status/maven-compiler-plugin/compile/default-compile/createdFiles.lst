@@ -1,0 +1,4 @@
+br/com/danieljscosta/response/Result.class
+br/com/danieljscosta/dto/Product.class
+br/com/danieljscosta/controller/ProductController.class
+br/com/danieljscosta/GreetingResource.class
